@@ -1,0 +1,6 @@
+id_producto,nombre,cantidad_disponible,cantidad_vendidos,estado,precio,categoria,ml/tipo/otros datos,tipo/sabor/otros datos,gramos/tama�o/otros datos
+1351,Coca-Cola,100,45,disponible,5,Bebida,500,refresco,0
+1352,Lays,50,20,disponible,10,Snack,200,Barbacoa,Grande
+1253,Red Bull,35,6,disponible,7.5,Bebida,350,Energ�tica,0
+1354,Tortrix,250,100,disponible,2,Snack,450,Barbacoa,Grande
+1355,Papel de ba�o,300,50,disponible,10.50,Hogar,100,Papel,0
